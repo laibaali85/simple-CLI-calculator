@@ -1,0 +1,1 @@
+npx laibay-simple-calculator
